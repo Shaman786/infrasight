@@ -3,6 +3,7 @@ package com.hostpalace.infrasight.modules.rack;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.hostpalace.infrasight.modules.device.Device;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
