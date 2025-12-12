@@ -1,4 +1,4 @@
-package com.example.infrasight;
+package com.hostpalace.infrasight;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
